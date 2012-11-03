@@ -1,1 +1,1 @@
-sudo apt-get install htop mc tree vim;
+sudo apt-get install htop mc tree vim
