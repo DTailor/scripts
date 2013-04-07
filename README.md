@@ -13,3 +13,4 @@ A bunch of scripts to ease my life, and automate some tasks in order for me to e
 
     wget -qO- https://raw.github.com/DTailor/scripts/master/consoleApp.sh | sh
 
+Have Fun :)
